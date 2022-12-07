@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 :bowtie:
 
-<!--
-**bittenhelen83/bittenhelen83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a Front-end development student from Norway, currently starting my second year at Noroff Higher Vocational College.
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my Portfolio 1
+- 🌱 I’m currently learning .HTML .JavaScript and .CSS
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: My waterpolo team placed fourth in the Norwegian Championship (NM) :wink:
+
+🌱 ###My latest projects
+
+- [First year Project Exam](https://github.com/bittenhelen83/new_project_exam1)
