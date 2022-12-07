@@ -11,7 +11,7 @@ Im a Front-end development student from Norway, currently starting my second yea
 
 ***
 
-🌱 My latest projects
+🌱 My latest projects:
 
 - [First year Project Exam](https://github.com/bittenhelen83/new_project_exam1)
 - [First year Semester Project](https://github.com/bittenhelen83/Bergen_Science_Museum)
