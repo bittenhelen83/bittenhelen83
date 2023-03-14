@@ -4,8 +4,8 @@ Im a Front-end development student from Norway, currently starting my second yea
 
 ***
 
-- 🔭 I’m currently working on my Portfolio 1
-- 🌱 I’m currently learning .HTML .JavaScript and .CSS
+- 🔭 I’m currently working on JavaScript 2
+- 🌱 I’m currently learning HTML JavaScript, CSS React and Bootstrap
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: My waterpolo team placed fourth in the Norwegian Championship (NM) :wink:
 - :speech_balloon: [My LinkedIn](https://www.linkedin.com/in/bittenberntsen/)
